@@ -16,12 +16,10 @@
 <a href="https://www.youtube.com/watch?v=0KFDWqRZJaQ">
 <strong>Visit a cool website </strong>
 <br />
-<br />
-<br />
 
 <p>
 
-<img alt="Globe" height="80" src="images/mono.gif">
+<img alt="Mono" height="100" src="images/mono.gif">
 </a>
 </p>
 
