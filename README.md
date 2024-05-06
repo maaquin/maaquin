@@ -47,7 +47,7 @@
 
 <!-- Footer -->
 
-<div style="text-align: center">
+<div align="center">
 
 <img src="./images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -60,5 +60,9 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
-<img src="./images/nyanCat.gif" alt="Nyan cat" width="100%">
+<div align="center">
+<img src="./images/nyanCat.gif" alt="Nyan cat" width="50%">
+</div>
