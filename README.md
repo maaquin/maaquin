@@ -57,12 +57,3 @@
 <img src="./images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-<img src="./images/nyanCat.gif" alt="Nyan cat" width="50%">
-</div>
