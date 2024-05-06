@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.youtube.com/watch?v=0KFDWqRZJaQ">
+<a href="https://pointerpointer.com/">
 <strong>Visit a cool website </strong>
 <br />
 <br />
