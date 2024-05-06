@@ -47,7 +47,7 @@
 
 <!-- Footer -->
 
-<div>
+<div style="text-align: center">
 
 <img src="./images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
