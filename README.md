@@ -18,8 +18,8 @@
 <br />
 <br />
 
-<p href="https://pointerpointer.com/">
-<img alt="Mono" height="100" src="images/mono.gif">
+<p>
+<img alt="Mono" height="100" src="images/mono.gif" href="https://pointerpointer.com/">
 </a>
 </p>
 
@@ -33,8 +33,8 @@
 <br />
 
 
-<p href="https://www.youtube.com/watch?v=lCK0mgg0cVU&list=RDCLAK5uy_lheErTnEXzx41DFOdllzXH0qFOH6I6rbo&start_radio=1">
-<img height="100" alt="Music" src="images/music.gif"> 
+<p>
+<img height="100" alt="Music" src="images/music.gif" href="https://www.youtube.com/watch?v=lCK0mgg0cVU&list=RDCLAK5uy_lheErTnEXzx41DFOdllzXH0qFOH6I6rbo&start_radio=1"> 
 </a>
 </p>
 
